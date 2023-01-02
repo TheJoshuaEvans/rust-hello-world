@@ -12,8 +12,8 @@ Going through the [intro docs](https://doc.rust-lang.org/rust-by-example/index.h
   - [X] 2.1. Literals and operators
   - [X] 2.2. Tuples
   - [X] 2.3. Arrays and Slices
-- [ ] 3. Custom Types
-  - [ ] 3.1. Structures
+- [X] 3. Custom Types
+  - [X] 3.1. Structures
   - [ ] 3.2. Enums
   - [ ] 3.3. constants
 - [ ] 4. Variable Bindings
